@@ -5,7 +5,7 @@ Project to supervise a Master's student in Artificial Intelligence (biologie san
 This markdown is meant to recapitulate the different steps neded to welcome new (biologeek) colleagues.
 
 ## ToDo list and resources:
-
+- [x] You may use macOs, think to install [iTerm](https://www.warp.dev/mac-terminal-themes?utm_source=google&utm_medium=search&utm_campaign=mac_terminal_themes_phrase_core&gad_source=1&gad_campaignid=20562791199&gclid=Cj0KCQiAxonKBhC1ARIsAIHq_lsS4ev-YhJBmuHYUNoKr_TxcHvk9bpu_zFNxMDcDK1LV09qDUjw2YwaAhrjEALw_wcB) terminal with customizable themes and modern settings.
 - [x] Create a [IFB account](https://my.cluster.france-bioinformatique.fr/) with team = `inserm_umr1068` it may takes more than 48h. 
 - [ ] Create a [gitlab](https://gitlab.com/users/sign_in) and [github](https://github.com/login) accounts (to be included in the ≠ projects and in your final report).
 - [ ] Create a [Zotero account](https://www.zotero.org/user/login/).
