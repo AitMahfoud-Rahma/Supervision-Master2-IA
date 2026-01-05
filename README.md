@@ -17,3 +17,10 @@ This markdown is meant to recapitulate the different steps neded to welcome new 
 - [ ] Do some Single cell documentation  
 - [ ] Here the Lab-meetings calendar[Team-up](https://teamup.com/ksryy9p6qp888asdop). 
 
+
+## Docs :
+- https://indico.math.cnrs.fr/event/3780/contributions/3241/attachments/2196/2551/01_scRNAseq_pres_Delphine_Bioinfo_2018-10-18.pdf
+- https://get.genotoul.fr/wp-content/uploads/2017/04/161010_RNAseq_M2P.pdf
+- https://www2.stat.duke.edu/~mukee002/Sta613/2018/singlecellrnaseq-170131050320.pdf
+- https://disc.marseille.inserm.fr/_downloads/6bda9672cb8e7635074c1dde9de91524/techdays_20180621_snakemake_conda_LK_AG.pdf
+- https://bioinformatics.ccr.cancer.gov/docs/getting-started-with-scrna-seq/2024-04-10_Seibert_Aghdam.pdf
