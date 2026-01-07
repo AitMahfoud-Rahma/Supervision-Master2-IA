@@ -1,4 +1,3 @@
-Project to supervise a Master's student in Artificial Intelligence (biologie santé) in single-cell analysis and modeling.
 # Welcoming new data analyst intern :-)
 
 This markdown is meant to recapitulate the different steps neded to welcome new (biologeek) colleagues.
