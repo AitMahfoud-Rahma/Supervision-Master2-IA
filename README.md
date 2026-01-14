@@ -22,3 +22,6 @@ This markdown is meant to recapitulate the different steps neded to welcome new 
 - https://www2.stat.duke.edu/~mukee002/Sta613/2018/singlecellrnaseq-170131050320.pdf
 - https://disc.marseille.inserm.fr/_downloads/6bda9672cb8e7635074c1dde9de91524/techdays_20180621_snakemake_conda_LK_AG.pdf
 - https://bioinformatics.ccr.cancer.gov/docs/getting-started-with-scrna-seq/2024-04-10_Seibert_Aghdam.pdf
+- https://link.springer.com/article/10.1186/s12915-021-00955-z
+- https://www.csbj.org/article/S2001-0370(22)00487-1/fulltext
+- 
