@@ -17,7 +17,7 @@ sudo apt install python3.10
 ```
 - [ ] Install [minicnda](https://www.anaconda.com/docs/getting-started/miniconda/install#linux-2)
 - [ ] Create an account in [10XGenomics](https://www.10xgenomics.com/platforms/chromium?utm_medium=search&utm_source=google&utm_term=10x+genomics+single+cell&useroffertype=website-page&utm_content=website-page&utm_campaign=701VI00000Fl8ZSYAZ&usercampaignid=701VI00000Fl8ZSYAZ&gad_source=1).
-- [ ] Do some Single cell documentation  
+- [ ] Do some multiome documentation  
 - [ ] Here the Lab-meetings calendar[Team-up](https://teamup.com/ksryy9p6qp888asdop). 
 
 
