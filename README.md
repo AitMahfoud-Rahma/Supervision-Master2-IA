@@ -5,7 +5,7 @@
 - [ ] Create a [IFB account](https://my.cluster.france-bioinformatique.fr/) with team = `inserm_umr1068` it may takes more than 48h. 
 - [ ] Create a [gitlab](https://gitlab.com/users/sign_in) and [github](https://github.com/login) accounts (to be included in the ≠ projects and in your final report).
 - [ ] Create a [Zotero account](https://www.zotero.org/user/login/).
-- [ ] Create a [discord account](https://discord.com/) to send me your questions/errors/codes....
+- [ ] Create a [discord account](https://discord.com/) to send me your questions/errors/codes.... My username: (rahmaait)
 - [ ] Install [R](https://posit.co/download/rstudio-desktop/).
 - [ ] Install [Rstudio](https://cran.rstudio.com/) as a possible IDE.
 - [ ] Install python3 in case you prefere to code with python!
