@@ -8,6 +8,11 @@
 - [ ] Create a [discord account](https://discord.com/) to send me your questions/errors/codes.... My username: (rahmaait)
 - [ ] Install [R](https://posit.co/download/rstudio-desktop/).
 - [ ] Install [Rstudio](https://cran.rstudio.com/) as a possible IDE.
+- [ ] Install [Seurat.V5](https://satijalab.org/seurat/) Seurat is an R package designed for QC, analysis, and exploration of single-cell RNA-seq data...
+    ```bash
+  install.packages("remotes")
+  remotes::install_github("satijalab/seurat", ref = "v5.0.0")
+```
 - [ ] Install python3 in case you prefere to code with python!
 ```bash
 sudo apt update
@@ -22,5 +27,6 @@ sudo apt install python3.10
 
 
 ## Docs :
+
 - https://indico.math.cnrs.fr/event/3780/contributions/3241/attachments/2196/2551/01_scRNAseq_pres_Delphine_Bioinfo_2018-10-18.pdf
 
