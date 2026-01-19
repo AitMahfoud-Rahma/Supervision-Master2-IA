@@ -8,11 +8,9 @@
 - [ ] Create a [discord account](https://discord.com/) to send me your questions/errors/codes.... My username: (rahmaait)
 - [ ] Install [R](https://posit.co/download/rstudio-desktop/).
 - [ ] Install [Rstudio](https://cran.rstudio.com/) as a possible IDE.
-- [ ] Install [Seurat.V5](https://satijalab.org/seurat/) Seurat is an R package designed for QC, analysis, and exploration of single-cell RNA-seq data...
-    ```bash
-  install.packages("remotes")
-  remotes::install_github("satijalab/seurat", ref = "v5.0.0")
-
+- [ ] Install [minicnda](https://www.anaconda.com/docs/getting-started/miniconda/install#linux-2)
+- [ ] After installing miniconda or conda, install the [Seurat environment](https://github.com/AitMahfoud-Rahma/Supervision-Master2-IA/blob/main/config/Seurat5_env.yml). This will allow you to work with more stable versions.
+      Seurat](https://satijalab.org/seurat/) Seurat is an R package designed for QC, analysis, and exploration of single-cell RNA-seq data...
 - [ ] Install python3 in case you prefere to code with python!
 ```bash
 sudo apt update
@@ -20,7 +18,6 @@ sudo apt install software-properties-common
 sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt install python3.10
 ```
-- [ ] Install [minicnda](https://www.anaconda.com/docs/getting-started/miniconda/install#linux-2)
 - [ ] Create an account in [10XGenomics](https://www.10xgenomics.com/platforms/chromium?utm_medium=search&utm_source=google&utm_term=10x+genomics+single+cell&useroffertype=website-page&utm_content=website-page&utm_campaign=701VI00000Fl8ZSYAZ&usercampaignid=701VI00000Fl8ZSYAZ&gad_source=1).
 - [ ] Do some Single cell documentation  
 - [ ] Here the Lab-meetings calendar[Team-up](https://teamup.com/ksryy9p6qp888asdop). 
