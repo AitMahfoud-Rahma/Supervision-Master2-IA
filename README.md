@@ -12,7 +12,7 @@
     ```bash
   install.packages("remotes")
   remotes::install_github("satijalab/seurat", ref = "v5.0.0")
-```
+
 - [ ] Install python3 in case you prefere to code with python!
 ```bash
 sudo apt update
