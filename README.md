@@ -10,7 +10,7 @@
 - [ ] Install [Rstudio](https://cran.rstudio.com/) as a possible IDE.
 - [ ] Install [minicnda](https://www.anaconda.com/docs/getting-started/miniconda/install#linux-2)
 - [ ] After installing miniconda or conda, install the [Seurat environment](https://github.com/AitMahfoud-Rahma/Supervision-Master2-IA/blob/main/config/Seurat5_env.yml). This will allow you to work with more stable versions.
-      Seurat](https://satijalab.org/seurat/) Seurat is an R package designed for QC, analysis, and exploration of single-cell RNA-seq data...
+- [Seurat](https://satijalab.org/seurat/) Seurat is an R package designed for QC, analysis, and exploration of single-cell RNA-seq data...
 - [ ] Install python3 in case you prefere to code with python!
 ```bash
 sudo apt update
