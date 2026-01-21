@@ -4,6 +4,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  -  r=4.0
   - _libgcc_mutex=0.1=conda_forge
   - _openmp_mutex=4.5=2_gnu
   - _py-xgboost-mutex=2.0=cpu_0
